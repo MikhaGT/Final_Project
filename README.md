@@ -1,4 +1,5 @@
 Getting started:
+
 To start playing the game, you need:
 1) To download the entire project
 2) To download the Node.js along with the npm
